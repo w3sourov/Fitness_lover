@@ -1112,8 +1112,9 @@ responsive
 
 @media (max-width: 992px) {
   .main-banner .caption h2 {
-    font-size: 64px;
+    font-size: 50px;
   }
+
   #features {
     margin-bottom: 110px;
   }
@@ -1140,6 +1141,9 @@ responsive
 @media (min-width: 768px) {
   #contact-us .contact-form {
     padding: 100px 30px;
+  }
+  .main-banner .caption {
+    top: 60% !important;
   }
 }
 @media (max-width: 450px) {

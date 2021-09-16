@@ -79,11 +79,10 @@
   /* header emd */
  /* banner start */
       .main-banner .caption h2 {
-        font-size: 54px;}
-        .main-banner .caption {
-            top: 68%;
-        }
-
+        font-size: 54px;
+      }
+    
+ 
 /* banner end */
 #contact-us .contact-form {
     padding: 100px 30px !important;
